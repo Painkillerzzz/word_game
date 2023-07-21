@@ -45,5 +45,5 @@ langdetect~=1.0.9
 拓展功能：  
 &emsp;1. 鲁棒性  
 &emsp;2. 语言限制  
-&emsp;3. 输出到txt
+&emsp;3. 输出到文件
 
